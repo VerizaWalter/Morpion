@@ -218,7 +218,7 @@ class Application
       if @plateau.check == true
         puts "-"*23
         puts "| VICTOIRE du JOUEUR2 |"
-        puts "|\tFELICITATIONS      |"
+        puts "|\twaooo vous avez gagnez!!|"
         puts "-"*23
         return true
       end
